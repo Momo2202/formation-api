@@ -1,3 +1,5 @@
+![CI](https://github.com/momo2202/formation-api/actions/workflows/ci.yml/badge.svg?branch=develop)
+
 # Formation API
 
 API de gestion de formations (Django REST Framework).
